@@ -3,8 +3,9 @@ export function Footer(){
     return(
 
  <footer className={styles.footerSite}>
-      <p>Projeto by Coti Infomática</p>
+      <p>Projeto by Bernardo Martins</p>
      </footer>
 
     )
+
 }
